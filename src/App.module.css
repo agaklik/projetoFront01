@@ -22,3 +22,11 @@
     height: 7.2rem;
     object-fit: cover;
 }
+
+.card .avatar {
+    width: 6.0rem;
+    height: 60px;
+    border-radius: 8px;
+    
+
+}
